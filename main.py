@@ -12,9 +12,9 @@ import os
 MAX_LINE_LENGTH = 200
 
 ENTRY_LINE = (
-    "That glass spent all morning staring at me from my sunbeam, "
-    "so I relocated it to the floor where it belongs — loudly, "
-    "on purpose, and I would do it again."
+    "The glass was empty, unguarded, and smug about it, so I "
+    "performed the quality inspection this household refuses to "
+    "do — and it failed, loudly."
 )
 
 

@@ -8,7 +8,7 @@ One sentence a house cat says in its own defence after knocking a glass off the 
 
 The entry line:
 
-> That glass spent all morning staring at me from my sunbeam, so I relocated it to the floor where it belongs — loudly, on purpose, and I would do it again.
+> The glass was empty, unguarded, and smug about it, so I performed the quality inspection this household refuses to do — and it failed, loudly.
 
 Run it with `python3 main.py` and it writes the line to `/output/entry.txt`.
 
